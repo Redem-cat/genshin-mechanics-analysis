@@ -1,7 +1,6 @@
 ﻿# Genshin Impact Mechanic Analysis Project
 
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Repository](https://img.shields.io/badge/Repository-Genshin_Mechanics_Analysis-blue?logo=github)](https://github.com/Redem-cat/genshin-mechanics-analysis)     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![版本](https://img.shields.io/badge/Version-1.0.0-green)]() [![Python](https://img.shields.io/badge/Python-3.8+-blue)]() [![MATLAB](https://img.shields.io/badge/MATLAB-R2020a+-orange)]()
 本项目包含对《原神》游戏系统的量化分析与模拟，包括角色培养、抽卡概率、敌人属性等内容。
 
 
